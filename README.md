@@ -21,6 +21,7 @@ Secondary requirements:
 Stretch goals:
 - Backend hosted on Azure Virtual machine
 - Frontend hosted as a static webpage on Azure
+- CSS styling, multiple pages, nice user experience
 
 # Tentative presentation day: Sept 19-20
 
